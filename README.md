@@ -1,6 +1,6 @@
 # Docker Nexus
 
-A docker container image for Nginx
+A docker container image for Nexus
 
 To use, just build the docker image
 
